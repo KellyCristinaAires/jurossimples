@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.exe
+C:\Users\kelly\Documents\atividadespc1\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.deps.json
+C:\Users\kelly\Documents\atividadespc1\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.dll
+C:\Users\kelly\Documents\atividadespc1\jurossimples\bin\Debug\netcoreapp3.1\jurossimples.pdb
+C:\Users\kelly\Documents\atividadespc1\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.dll
+C:\Users\kelly\Documents\atividadespc1\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.pdb
+C:\Users\kelly\Documents\atividadespc1\jurossimples\obj\Debug\netcoreapp3.1\jurossimples.genruntimeconfig.cache

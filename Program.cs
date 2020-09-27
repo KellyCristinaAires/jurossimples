@@ -7,7 +7,7 @@ namespace jurossimples
         static void Main(string[] args)
         {
             double capital;
-            double taxa:
+            double taxa;
             double resultTaxa;
             double tempo;
             double juros;
@@ -21,7 +21,7 @@ namespace jurossimples
 
             Console.Write("Digite seu tempo de parcelas: ");
             tempo = double.Parse(Console.ReadLine());
-            Console.Write("\n")
+            Console.Write("\n");
 
             resultTaxa = taxa /100;
             juros = capital *resultTaxa * tempo;
